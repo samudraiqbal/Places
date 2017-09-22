@@ -8,4 +8,5 @@
     <string name="settings_label">Pengaturan</string>
     <string name="location_permissions">Izin Lokasi</string>
     <string name="enable_geofences">Aktifkan Geofences</string>
+    <string name="privacy">http://www.google.com/policies/privacy</string>
 </resources>
