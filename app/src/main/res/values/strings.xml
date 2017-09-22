@@ -1,8 +1,11 @@
 <resources>
-    <string name="app_name">ShushMe</string>
-    <string name="add_new_location">Add new location</string>
-    <string name="location_list">Locations</string>
-    <string name="setting_enabled" translatable="false">EnabledSetting</string>
-    <string name="settings_label">Settings</string>
-    <string name="enable_geofences">Enable Geofences</string>
+    <string name="app_name">Places</string>
+    <string name="add_new_location">Tambah lokasi baru</string>
+    <string name="location_list">Daftar lokasi</string>
+    <string name="need_location_permission_message">Anda harus mengaktifkan izin lokasi terlebih dulu</string>
+    <string name="location_permissions_granted_message">Izin Lokasi yang Diberikan</string>
+    <string name="setting_enabled" translatable="false">Pengaturan yang diaktifkan</string>
+    <string name="settings_label">Pengaturan</string>
+    <string name="location_permissions">Izin Lokasi</string>
+    <string name="enable_geofences">Aktifkan Geofences</string>
 </resources>
