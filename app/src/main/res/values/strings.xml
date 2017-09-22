@@ -9,4 +9,8 @@
     <string name="location_permissions">Izin Lokasi</string>
     <string name="enable_geofences">Aktifkan Geofences</string>
     <string name="privacy">http://www.google.com/policies/privacy</string>
+    <string name="ringer_permissions">Izin Getar</string>
+    <string name="silent_mode_activated">Mode diam diaktifkan</string>
+    <string name="touch_to_relaunch">Sentuh untuk membuka aplikasi.</string>
+    <string name="back_to_normal">Kembali ke normal</string>
 </resources>
